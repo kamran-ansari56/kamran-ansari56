@@ -1,23 +1,38 @@
-Hello Everyone! 👋
+I'm Kamran Ansari, a Data Whisperer 🧠 who believes that every dataset holds a hidden story — and I'm on a mission to turn numbers into narratives that drive business decisions.
 
-I'm Kamran Ansari from Mumbai, with 8+ years of diverse experience spanning the Travel Industry and Data Analytics. My professional journey started in the Travel sector, where I spent nearly 5 years mastering operations and customer experience. The COVID-19 pandemic became a turning point, guiding me toward the dynamic field of Data Analytics — where data transforms into decisions.
+With 8+ years of diverse experience across the Travel, Education, Construction, and Technology industries, I've mastered the art of blending business acumen with technical wizardry. 
 
-My Journey 🚀
-At Expertrons, I served as an Analytics Manager, leading a team of 12+ coaches and driving data-backed strategies to optimize operations. Unfortunately, the company ceased operations due to legal complications.
-I then moved to Zell Education as a Lead Analyst, where I developed Excel and Power BI reports, managed a team of MIS professionals, and played a key role in the company's expansion to two new locations. However, the BYJU’s crisis in the education sector led to my department being laid off.
-I joined Summit Consultancy as a Lead Analyst, overseeing data management, inventory control, and labor management, creating end-to-end reports to support project managers.
-Currently, I work as a Lead Consultant at Icon Technologies, where I leverage my skills in Data Analytics, SQL, Python, Power BI, and Machine Learning to deliver business insights and predictive models that drive growth and efficiency.
+My career journey began in the travel industry, but my passion for data storytelling and informed decision-making led me to transition into the Data Analytics field. Along the way, I have upskilled myself in Data Analysis, Machine Learning, and Predictive Modelling — blending business acumen with technical expertise.
 
-What Drives Me 🔥
-I'm more data-informed than data-driven — because I believe every dataset has a story waiting to be told. I specialize in making insights:
-✅ Relatable
-✅ Understandable
-✅ Actionable
+What Do I Do?
+💪 I don't just analyze data — I craft stories that empower businesses to take action.
+🔍 I find hidden patterns in messy datasets and turn them into insights that matter.
+🤖 I design Machine Learning models that predict the future and unlock business potential.
+📊 I create dynamic dashboards in Power BI that help businesses see what their eyes can't.
+⏳ I automate manual reporting processes, giving teams more time to focus on what truly matters — making data-backed decisions.
+✅ Translate complex data into simple, actionable stories
+
+My Superpowers
+🧙‍♂️ Power BI Jedi (Certified PL-300)
+📊 SQL Sorcerer
+🐍 Python Data Wizard
+🔍 Data Cleaning Ninja
+🧠 Machine Learning Enthusiast
+📈 Predictive Analytics
+💪 Business Performance Optimization
+
+Achievements
+🏅 Designed multiple Power BI dashboards for sales, inventory, and performance tracking — reducing manual reporting workload by 50%
+🏅 Identified KPIs for various businesses, helping companies measure performance and make data-informed decisions
+🏅 Automated manual reporting tasks, reducing the reporting cycle from days to minutes
+
+Why Data?
+Because Data-Informed > Data-Driven 🚀
+I'm not here just to crunch numbers. I'm here to uncover the story behind the numbers — stories that are relatable, actionable, and help businesses make smarter decisions.
 
 What's Next?
-I'm looking for new challenges where I can combine Data Analytics and Machine Learning to build impactful solutions that help businesses thrive.
+I'm on a mission to master Data Science and Machine Learning — combining technical skills with business insights to help companies make informed, data-backed decisions.
+I'm open to collaborations, projects, and new opportunities where I can make an impact with data storytelling and predictive analytics.
 
-Let's connect and explore how I can help your business unlock the power of data!
-
+Let's connect and turn Data into Decisions!
 📧 kamran.ansari56.ka@gmail.com
-📞 9967191196
