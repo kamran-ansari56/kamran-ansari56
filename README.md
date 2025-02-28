@@ -7,13 +7,7 @@ At Expertrons, I served as an Analytics Manager, leading a team of 12+ coaches a
 I then moved to Zell Education as a Lead Analyst, where I developed Excel and Power BI reports, managed a team of MIS professionals, and played a key role in the company's expansion to two new locations. However, the BYJU’s crisis in the education sector led to my department being laid off.
 I joined Summit Consultancy as a Lead Analyst, overseeing data management, inventory control, and labor management, creating end-to-end reports to support project managers.
 Currently, I work as a Lead Consultant at Icon Technologies, where I leverage my skills in Data Analytics, SQL, Python, Power BI, and Machine Learning to deliver business insights and predictive models that drive growth and efficiency.
-Machine Learning Expertise 🤖
-My data journey has evolved beyond dashboards — I now build Machine Learning models to extract insights and make predictions. I've worked on:
 
-Time-Series Forecasting to predict sales and inventory demands.
-Classification Models to identify potential customer churn.
-Regression Models for pricing optimization.
-Sentiment Analysis using Natural Language Processing (NLP) to gauge customer feedback.
 What Drives Me 🔥
 I'm more data-informed than data-driven — because I believe every dataset has a story waiting to be told. I specialize in making insights:
 ✅ Relatable
