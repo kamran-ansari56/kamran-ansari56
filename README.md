@@ -6,7 +6,7 @@ My career journey began in the travel industry, but my passion for data storytel
 
 What Do I Do?
 💪 I don't just analyze data — I craft stories that empower businesses to take action.
-🔍 I find hidden patterns in messy datasets and turn them into insights that matter.
+🔍 I find hidden patterns in messy datasets and turn them into valuable insights.
 🤖 I design Machine Learning models that predict the future and unlock business potential.
 📊 I create dynamic dashboards in Power BI that help businesses see what their eyes can't.
 ⏳ I automate manual reporting processes, giving teams more time to focus on what truly matters — making data-backed decisions.
@@ -28,7 +28,7 @@ Achievements
 
 Why Data?
 Because Data-Informed > Data-Driven 🚀
-I'm not here just to crunch numbers. I'm here to uncover the story behind the numbers — stories that are relatable, actionable, and help businesses make smarter decisions.
+I'm not here just to crunch numbers. I'm here to uncover the story behind the numbers — stories that are relatable, and actionable, and help businesses make smarter decisions.
 
 What's Next?
 I'm on a mission to master Data Science and Machine Learning — combining technical skills with business insights to help companies make informed, data-backed decisions.
