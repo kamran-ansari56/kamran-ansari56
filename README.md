@@ -2,10 +2,10 @@ I'm Kamran Ansari, a Data Whisperer who believes that every dataset holds a hidd
 
 With 8+ years of diverse experience across the Travel, Education, Construction, and Technology industries, I've mastered the art of blending business acumen with technical wizardry. 
 
-My career journey began in the travel industry, but my passion for data storytelling and informed decision-making led me to transition into the Data Analytics field. Along the way, I have upskilled myself in Data Analysis, Machine Learning, and Predictive Modelling — blending business acumen with technical expertise.
+My career journey began in the travel industry, but my passion for data storytelling and informed decision-making led me to transition into the Data Analytics field. Along the way, I have upskilled myself in Data Analysis, Machine Learning, and Predictive Modelling blending business acumen with technical expertise.
 
 What Do I Do?
-💪 I don't just analyze data — I craft stories that empower businesses to take action.
+💪 I don't just analyze data I craft stories that empower businesses to take action.
 🔍 I find hidden patterns in messy datasets and turn them into valuable insights.
 🤖 I design Machine Learning models that predict the future and unlock business potential.
 📊 I create dynamic dashboards in Power BI that help businesses see what their eyes can't.
