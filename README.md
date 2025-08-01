@@ -9,7 +9,7 @@ What Do I Do?
 🔍 I find hidden patterns in messy datasets and turn them into valuable insights.
 🤖 I design Machine Learning models that predict the future and unlock business potential.
 📊 I create dynamic dashboards in Power BI that help businesses see what their eyes can't.
-⏳ I automate manual reporting processes, giving teams more time to focus on what truly matters — making data-backed decisions.
+⏳ I automate manual reporting processes, giving teams more time to focus on what truly matters making data-backed decisions.
 ✅ Translate complex data into simple, actionable stories
 
 My Superpowers
@@ -22,18 +22,17 @@ My Superpowers
 💪 Business Performance Optimization
 
 Achievements
-🏅 Designed multiple Power BI dashboards for sales, inventory, and performance tracking — reducing manual reporting workload by 50%
+🏅 Designed multiple Power BI dashboards for sales, inventory, and performance tracking reducing manual reporting workload by 50%
 🏅 Identified KPIs for various businesses, helping companies measure performance and make data-informed decisions
 🏅 Automated manual reporting tasks, reducing the reporting cycle from days to minutes
 
 Why Data?
 Because Data-Informed > Data-Driven 🚀
-I'm not here just to crunch numbers. I'm here to uncover the story behind the numbers — stories that are relatable, and actionable, and help businesses make smarter decisions.
+I'm not here just to crunch numbers. I'm here to uncover the story behind the numbers stories that are relatable, and actionable, and help businesses make smarter decisions.
 
 What's Next?
-I'm on a mission to master Data Science and Machine Learning — combining technical skills with business insights to help companies make informed, data-backed decisions.
+I'm on a mission to master Data Science and Machine Learning combining technical skills with business insights to help companies make informed, data-backed decisions.
 I'm open to collaborations, projects, and new opportunities where I can make an impact with data storytelling and predictive analytics.
 
 Let's connect and turn Data into Decisions!
 📧 kamran.ansari56.ka@gmail.com
-
