@@ -1,4 +1,4 @@
-I'm Kamran Ansari, a Data Whisperer who believes that every dataset holds a hidden story — and I'm on a mission to turn numbers into narratives that drive business decisions.
+I'm Kamran Ansari, a Data Whisperer who believes that every dataset holds a hidden story and I'm on a mission to turn numbers into narratives that drive business decisions.
 
 With 8+ years of diverse experience across the Travel, Education, Construction, and Technology industries, I've mastered the art of blending business acumen with technical wizardry. 
 
