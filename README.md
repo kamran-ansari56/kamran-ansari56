@@ -1,38 +1,35 @@
-I'm Kamran Ansari, a Data Whisperer who believes that every dataset holds a hidden story and I'm on a mission to turn numbers into narratives that drive business decisions.
+**Hi, I’m Kamran Ansari
+**
+I’m a Data Whisperer who believes every dataset hides a story waiting to be told. With over 8 years of experience across Travel, Education, Construction, and Technology, I’ve learned how to blend business acumen with data science to turn numbers into decisions that matter.
 
-With 8+ years of diverse experience across the Travel, Education, Construction, and Technology industries, I've mastered the art of blending business acumen with technical wizardry. 
+**What Do I Do?
+**
+- Craft data stories that empower businesses to take action
+- Discover hidden patterns in complex datasets and turn them into insights
+- Build machine learning models that predict outcomes and unlock opportunities
+- Design Power BI dashboards (PL-300 certified) that drive visibility and performance
+- Automate reporting processes to free teams for decision-making
 
-My career journey began in the travel industry, but my passion for data storytelling and informed decision-making led me to transition into the Data Analytics field. Along the way, I have upskilled myself in Data Analysis, Machine Learning, and Predictive Modelling blending business acumen with technical expertise.
+**Core Skills?
+**
+- Power BI, SQL, Python
+- Machine Learning & Predictive Modeling
+- Data Cleaning & Transformation
+- Business Performance Optimization
 
-What Do I Do?
-💪 I don't just analyze data I craft stories that empower businesses to take action.
-🔍 I find hidden patterns in messy datasets and turn them into valuable insights.
-🤖 I design Machine Learning models that predict the future and unlock business potential.
-📊 I create dynamic dashboards in Power BI that help businesses see what their eyes can't.
-⏳ I automate manual reporting processes, giving teams more time to focus on what truly matters making data-backed decisions.
-✅ Translate complex data into simple, actionable stories
+**Selected Achievements
+**
+- Designed automated dashboards that reduced manual reporting by 50%
+- Identified KPIs enabling companies to measure performance effectively
+- Streamlined reporting cycles from days to minutes through automation
 
-My Superpowers
-🧙‍♂️ Power BI Jedi (Certified PL-300)
-📊 SQL Sorcerer
-🐍 Python Data Wizard
-🔍 Data Cleaning Ninja
-🧠 Machine Learning Enthusiast
-📈 Predictive Analytics
-💪 Business Performance Optimization
+**Why Data?
+**
+Because being data-informed is more powerful than just being data-driven. Numbers alone don’t drive change—the stories behind them do. My mission is to uncover those stories and turn them into actionable strategies for businesses.
 
-Achievements
-🏅 Designed multiple Power BI dashboards for sales, inventory, and performance tracking reducing manual reporting workload by 50%
-🏅 Identified KPIs for various businesses, helping companies measure performance and make data-informed decisions
-🏅 Automated manual reporting tasks, reducing the reporting cycle from days to minutes
-
-Why Data?
-Because Data-Informed > Data-Driven 🚀
-I'm not here just to crunch numbers. I'm here to uncover the story behind the numbers stories that are relatable, and actionable, and help businesses make smarter decisions.
-
-What's Next?
-I'm on a mission to master Data Science and Machine Learning combining technical skills with business insights to help companies make informed, data-backed decisions.
-I'm open to collaborations, projects, and new opportunities where I can make an impact with data storytelling and predictive analytics.
+**What's Next?
+**
+I’m focused on deepening my expertise in Data Science and Machine Learning, combining technical skills with business insights to create scalable impact. I’m open to collaborations, projects, and opportunities where data storytelling can shape better decisions.
 
 Let's connect and turn Data into Decisions!
-📧 kamran.ansari56.ka@gmail.com
+**📧 kamran.ansari56.ka@gmail.com**
